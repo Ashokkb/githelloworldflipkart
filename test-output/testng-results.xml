@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="12814" started-at="2018-02-24T12:21:24Z" finished-at="2018-02-24T12:21:37Z">
+  <suite name="Suite" duration-ms="21722" started-at="2018-02-24T12:53:29Z" finished-at="2018-02-24T12:53:50Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="12814" started-at="2018-02-24T12:21:24Z" finished-at="2018-02-24T12:21:37Z">
+    <test name="Test" duration-ms="21722" started-at="2018-02-24T12:53:29Z" finished-at="2018-02-24T12:53:50Z">
       <class name="jhenkinpackage.jhenkindemoclass">
-        <test-method status="PASS" signature="demojhenkin()[pri:0, instance:jhenkinpackage.jhenkindemoclass@6833ce2c]" name="demojhenkin" duration-ms="12792" started-at="2018-02-24T12:21:24Z" finished-at="2018-02-24T12:21:37Z">
+        <test-method status="PASS" signature="demojhenkin()[pri:0, instance:jhenkinpackage.jhenkindemoclass@6833ce2c]" name="demojhenkin" duration-ms="21698" started-at="2018-02-24T12:53:29Z" finished-at="2018-02-24T12:53:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demojhenkin -->

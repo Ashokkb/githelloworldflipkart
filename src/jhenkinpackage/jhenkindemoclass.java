@@ -14,8 +14,7 @@ public class jhenkindemoclass {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.flipkart.com");
-		//driver.manage().timeouts().implicitlyWait(5,TimeUnit.SECONDS);
-		System.out.println("Ashok - Successfully Build using Jenkins");
+		System.out.println("Ashok Build - Successfully using Jenkins");
 		driver.close();
 		
 	}
