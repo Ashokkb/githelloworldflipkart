@@ -1,0 +1,3 @@
+ashoktextdocument.txt  lib			README.MD   test-output
+bin		       New\ Text\ Document.txt	src
+demo.bat	       readashok.txt		testng.xml
